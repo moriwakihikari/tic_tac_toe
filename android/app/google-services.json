@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807943088200",
+    "project_id": "tic-tac-toe-handson",
+    "storage_bucket": "tic-tac-toe-handson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807943088200:android:d989c8a1b020562321907d",
+        "android_client_info": {
+          "package_name": "com.example.tic_tac_toe_handson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCWnRieFsedimIvgsjNevAdUSb0dm1faY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
